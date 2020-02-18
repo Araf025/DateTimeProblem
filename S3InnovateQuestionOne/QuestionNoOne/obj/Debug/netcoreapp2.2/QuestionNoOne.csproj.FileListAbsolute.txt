@@ -1,0 +1,11 @@
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\bin\Debug\netcoreapp2.2\QuestionNoOne.deps.json
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\bin\Debug\netcoreapp2.2\QuestionNoOne.runtimeconfig.json
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\bin\Debug\netcoreapp2.2\QuestionNoOne.runtimeconfig.dev.json
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\bin\Debug\netcoreapp2.2\QuestionNoOne.dll
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\bin\Debug\netcoreapp2.2\QuestionNoOne.pdb
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\obj\Debug\netcoreapp2.2\QuestionNoOne.csprojAssemblyReference.cache
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\obj\Debug\netcoreapp2.2\QuestionNoOne.csproj.CoreCompileInputs.cache
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\obj\Debug\netcoreapp2.2\QuestionNoOne.AssemblyInfoInputs.cache
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\obj\Debug\netcoreapp2.2\QuestionNoOne.AssemblyInfo.cs
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\obj\Debug\netcoreapp2.2\QuestionNoOne.dll
+C:\Users\Araf\source\repos\S3InnovateQuestionOne\QuestionNoOne\obj\Debug\netcoreapp2.2\QuestionNoOne.pdb
